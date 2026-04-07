@@ -2,8 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn
-warnings
-pathlib
 sklearn
 lightgbm
 optuna
